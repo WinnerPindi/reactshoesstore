@@ -9,6 +9,11 @@ Ce projet est un site web vitrine dédié à la vente de chaussures Nike. Il est
 - Panier d'achat 
 - Réactivité mobile pour une compatibilité avec tous les appareils
 
+## Capture D'écran
+
+![image](https://github.com/WinnerPindi/reactshoesstore/assets/90834225/7e1b6798-2c4e-4704-9c11-775d3a024c42)
+
+
 ## Installation
 Pour installer ce projet, suivez ces étapes :
 
